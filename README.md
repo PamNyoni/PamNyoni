@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PamNyoni
-- 👀 I’m interested in : mentoring, career advancement and technological improvement
+- 👀 I’m interested in : Data Analysis, Data Engineering, Azure Security Engineering, AI Engineering
 - 🌱 I’m currently learning : How to be a Cybersecurity Analyst and Data Analyst
 - 💞️ I’m looking to collaborate on : 
 - 📫 How to reach me : siyethemba.pam@gmail.com
